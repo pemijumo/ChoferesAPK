@@ -22,9 +22,9 @@
 		<access origin="*" subdomains="true" />
 		<access origin="*.phonegap.com" /><preference name="phonegap-version" value="cli-6.3.0" />
 		
+<plugin name="cordova-plugin-geolocation" spec="~3.0.0" />
 
-<gap:plugin name="org.apache.cordova.dialogs" />
-<gap:plugin name="org.apache.cordova.geolocation" />
+
 
 		
 		
